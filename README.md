@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/avronilrajib" target="blank"><img src="https://img.shields.io/twitter/follow/avronilrajib?logo=twitter&style=for-the-badge" alt="avronilrajib" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **MERN Problem Solving**
 
