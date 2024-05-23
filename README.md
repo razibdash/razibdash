@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **assembly language**
 
-- 💬 Ask me about **MERN Problem Solving**
-
 - 📫 How to reach me **avrorazib@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
