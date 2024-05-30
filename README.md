@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avronil Rajib</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">Competitive Programmer & Full Stack Developer</h3>
 <img align="right" width="400" src="https://i.ibb.co/ZYxwTrc/rajibPic.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avronilrajib&label=Profile%20views&color=0e75b6&style=flat" alt="avronilrajib" /> </p>
