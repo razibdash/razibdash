@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avronil Rajib</h1>
+<h1 align="center">Hi 👋, I'm Razib Dash</h1>
 <h3 align="center">Competitive Programmer & Full Stack Developer</h3>
 <img align="right" width="400" src="https://i.ibb.co/ZYxwTrc/rajibPic.jpg">
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://facebook.com/avronilrajib" target="blank"><img src="https://img.shields.io/twitter/follow/avronilrajib?logo=facebook&style=for-the-badge" alt="avronilrajib" /></a> </p>
 
-- 🌱 I’m currently learning **assembly language**
+- 🌱 I’m currently learning **Node.js Express.js MongoDB**
 
 - 📫 How to reach me **avrorazib@gmail.com**
 
