@@ -77,11 +77,10 @@
          <br />
       </td>
       <td>
-         <br />
         - If Possible Start my own company<br />
         - Be honest and transparent<br />
         - If possible i will marride a cute girl<br /> 
-        - Have a meaningful and happy family life
+        - Happy family life
       </td>
     </tr>
   </table>
