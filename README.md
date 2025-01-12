@@ -66,7 +66,7 @@
         - Learning AI <br />
         - Basic Fundamental of Operating System<br />
         - Learning Next.js to start a job<br />
-        - Creating industry-level MERN projects<br />
+        - Graduating in CSE<br />
         - Secure first job and grow professionally 
       </td>
       <td>
@@ -74,7 +74,7 @@
         - Mastering data structures and algorithms<br />
         - ILTS<br />
         - Becoming a full-stack developer<br />
-        - Graduating in CSE<br />
+         <br />
       </td>
       <td>
         - Be in the top 1% of my field<br />
