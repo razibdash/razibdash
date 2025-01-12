@@ -37,13 +37,13 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hrhabib07&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=razibdash&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="hrhabib07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrhabib07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
+      <img alt="razib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=razibdash&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hrhabib07's Top Languages" height="230px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razibdash&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="razibdash's Top Languages" height="230px" />
     <br />
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
