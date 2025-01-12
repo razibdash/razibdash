@@ -1,45 +1,112 @@
-<h1 align="center">Hi 👋, I'm Razib Dash</h1>
-<h3 align="center">Software Engineer & MERN Stack Developer</h3>
-<img align="right" width="400" src="https://i.ibb.co/ZYxwTrc/rajibPic.jpg">
+<div align="center">
+  <h2>Welcome to Razib 's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avronilrajib&label=Profile%20views&color=0e75b6&style=flat" alt="avronilrajib" /> </p>
-
-<p align="left"> <a href="https://facebook.com/avronilrajib" target="blank"><img src="https://img.shields.io/twitter/follow/avronilrajib?logo=facebook&style=for-the-badge" alt="avronilrajib" /></a> </p>
-
-- 🌱 I’m currently learning **ML**
-
-- 📫 How to reach me **avrorazib@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/avronilrajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://twitter.com/avronilrajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/razibdash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://fb.com/avronilrajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://instagram.com/razibdash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/avronil rajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="avronil rajib" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/avronilrajib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avronilrajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/avronilrajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/avronilrajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avronilrajib" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/avronilrajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="avronilrajib" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-  <hr/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avronilrajib&show_icons=true&locale=en&layout=compact" alt="avronilrajib" /></p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;" alt="Typing SVG" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avronilrajib&show_icons=true&locale=en" alt="avronilrajib" /></p>
+<br clear="both" />
+<div > 
+  <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avronilrajib&" alt="avronilrajib" /></p>
+### ⚡ Productive Habits
 
+- I’m currently learning AI
+- Staying health-conscious
+- Practicing productive time management
+- Fun fact I am Funny
+
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+         width=32px> Skills</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb,git,firebase,vercel,postman,html,css,javascript,typescript" />
+  </a>
+</p>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5%> Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hrhabib07&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="hrhabib07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrhabib07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hrhabib07's Top Languages" height="230px" />
+    <br />
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</div>
+
+### 💻 My Recent Projects
+
+- **Recent Full stack Project :** [Job-Hostely - job portal web app ( MERN)]
+
+<div align="left">
+  <h3>My Mission & Vision</h3>
+  <table>
+    <tr>
+      <th>Short-Term Goals: 2025 </th>
+      <th>Mid-Term Goals: Next 5 Years </th>
+      <th>Long-Term Goals: Next 10 Years</th>
+    </tr>
+    <tr>
+      <td> 
+        - Learning AI <br />
+        - Basic Fundamental of Operating System<br />
+        - Learning Next.js to start a job<br />
+        - Creating industry-level MERN projects<br />
+        - Secure first job and grow professionally 
+      </td>
+      <td>
+        - Minimum Create One SaaS Product<br />
+        - Mastering data structures and algorithms<br />
+        - ILTS<br />
+        - Becoming a full-stack developer<br />
+        - Graduating in CSE<br />
+      </td>
+      <td>
+        - Be in the top 1% of my field<br />
+        - If Possible Start my own company<br />
+        - Be honest and transparent<br />
+        - If possible i will marride a cute girl<br /> 
+        - Have a meaningful and happy family life
+      </td>
+    </tr>
+  </table>
+</div>
+<b>Connect with me:</b>
+<br/>
+<a href="https://www.linkedin.com/in/razibdash/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:avrorazib@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<!-- <a href="avronil.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23A020F0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a> -->
+<a href="https://codeforces.com/profile/Muhammad_Habibur_Rahman" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1f8dd6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+<a href="https://www.facebook.com/avronilrajib" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<br/>
+<br/>
+<!-- <b>Certificates</b>
+<br/>
+<a href="https://www.linkedin.com/in/razibdash/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a> -->
