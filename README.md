@@ -36,9 +36,7 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5%> Current Stats
 
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hrhabib07&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="hrhabib07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrhabib07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
