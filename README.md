@@ -77,7 +77,7 @@
          <br />
       </td>
       <td>
-        - Be in the top 1% of my field<br />
+         <br />
         - If Possible Start my own company<br />
         - Be honest and transparent<br />
         - If possible i will marride a cute girl<br /> 
