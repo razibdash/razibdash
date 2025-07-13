@@ -19,7 +19,7 @@
 
 ### ⚡ Productive Habits
 
-- I’m currently learning AI
+- I’m currently learning Generative AI
 - Staying health-conscious
 - Practicing productive time management
 - Fun fact I am Funny
@@ -65,13 +65,11 @@
       <td> 
         - Learning AI <br />
         - Basic Fundamental of Operating System<br />
-        - Learning Next.js to start a job<br />
         - Graduating in CSE<br />
         - Secure first job and grow professionally 
       </td>
       <td>
         - Minimum Create One SaaS Product<br />
-        - Mastering data structures and algorithms<br />
         - ILTS<br />
         - Becoming a full-stack developer<br />
          <br />
@@ -80,7 +78,6 @@
         - If Possible Start my own company<br />
         - Be honest and transparent<br />
         - If possible i will marride a cute girl<br /> 
-        - Happy family life
       </td>
     </tr>
   </table>
