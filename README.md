@@ -29,7 +29,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,git,vercel,postman,html,css,javascript,langchain" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,git,vercel,postman,html,css,javascript" />
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/logo.svg" alt="LangChain" height="48" />
   </a>
 </p>
 
