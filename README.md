@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Generative+AI+Engineer;MERN+Stack+Developer;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,git,firebase,vercel,postman,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express,mongodb,git,vercel,postman,html,css,javascript,langchain" />
   </a>
 </p>
 
