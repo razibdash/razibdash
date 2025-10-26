@@ -64,20 +64,20 @@
     <tr>
       <td> 
         - Learning AI <br />
-        - Basic Fundamental of Operating System<br />
+        - Learning Laravel<br />
         - Graduating in CSE<br />
         - Secure first job and grow professionally 
       </td>
       <td>
         - Minimum Create One SaaS Product<br />
         - ILTS<br />
-        - Becoming a full-stack developer<br />
+        - Becoming a full-stack and genAi developer<br />
          <br />
       </td>
       <td>
         - If Possible Start my own company<br />
         - Be honest and transparent<br />
-        - If possible i will marride a cute girl<br /> 
+        - If possible i will marry a cute girl<br /> 
       </td>
     </tr>
   </table>
