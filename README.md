@@ -52,12 +52,13 @@
 ### 💻 My Recent Projects
 
 - **Recent working Full stack Project :** [GlobaHealth - EMR System]
+- **Recent working Full stack Project :** [EasyApply - Ai Power SaaS Product]
 
 <div align="left">
   <h3>My Mission & Vision</h3>
   <table>
     <tr>
-      <th>Short-Term Goals: 2025 </th>
+      <th>Short-Term Goals: 2026 </th>
       <th>Mid-Term Goals: Next 5 Years </th>
       <th>Long-Term Goals: Next 10 Years</th>
     </tr>
@@ -66,16 +67,14 @@
         - Learning AI <br />
         - Learning Laravel<br />
         - Graduating in CSE<br />
-        - Secure first job and grow professionally 
-      </td>
-      <td>
-        - Minimum Create One SaaS Product<br />
-        - ILTS<br />
-        - Becoming a full-stack and genAi developer<br />
-         <br />
+        - Minimum Create One SaaS Product
       </td>
       <td>
         - If Possible Start my own company<br />
+        - ILTS<br />
+         <br />
+      </td>
+      <td>
         - Be honest and transparent<br />
         - If possible i will marry a cute girl<br /> 
       </td>
