@@ -60,7 +60,7 @@
       <th>Duration</th>
     </tr>
     <tr>
-      <td><a href=" https://emr.globahealth.ai-health.org.uk" target="_blank">GlobaHealth - EMR System</a></td>
+      <td><a href="https://emr.globahealth.ai-health.org.uk" target="_blank">GlobaHealth - EMR System</a></td>
       <td>A full-stack Electronic Medical Record system designed to streamline healthcare data management and improve patient care.</td>
       <td>2026 - Present</td>
     </tr>
