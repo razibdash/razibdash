@@ -49,6 +49,34 @@
   </p>
 </div>
 
+
+### 🚀 My Projects
+<div align="center">
+  <table>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Duration</th>
+    </tr>
+    <tr>
+      <td>GlobaHealth - EMR System</td>
+      <td>A full-stack Electronic Medical Record system designed to streamline healthcare data management and improve patient care.</td>
+      <td>2025 - Present</td>
+    </tr>
+    <tr>
+      <td>EasyApply - AI Powered SaaS Product</td>
+      <td>An AI-driven SaaS platform that simplifies job applications by automating resume tailoring and application processes.</td>
+      <td>2024 - 2025</td>
+    </tr>
+    <tr>
+      <td>Portfolio Website</td>
+      <td>A personal portfolio showcasing projects, skills, and achievements with a modern responsive design.</td>
+      <td>2023</td>
+    </tr>
+  </table>
+</div>
+
+
 ### 💻 My Recent Projects
 
 - **Recent working Full stack Project :** [GlobaHealth - EMR System]
