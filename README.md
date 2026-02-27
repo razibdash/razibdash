@@ -51,6 +51,7 @@
 
 
 ### 🚀 My Projects
+
 <div align="center">
   <table>
     <tr>
@@ -59,28 +60,23 @@
       <th>Duration</th>
     </tr>
     <tr>
-      <td>GlobaHealth - EMR System</td>
+      <td><a href=" https://emr.globahealth.ai-health.org.uk" target="_blank">GlobaHealth - EMR System</a></td>
       <td>A full-stack Electronic Medical Record system designed to streamline healthcare data management and improve patient care.</td>
-      <td>2025 - Present</td>
+      <td>2026 - Present</td>
     </tr>
     <tr>
-      <td>EasyApply - AI Powered SaaS Product</td>
+      <td><a href="https://anikdey13.github.io/easy-apply-website/" target="_blank">EasyApply - AI Powered SaaS Product</a></td>
       <td>An AI-driven SaaS platform that simplifies job applications by automating resume tailoring and application processes.</td>
-      <td>2024 - 2025</td>
+      <td>2026-present</td>
     </tr>
     <tr>
-      <td>Portfolio Website</td>
+      <td><a href="https://razibdash.netlify.app/" target="_blank">Portfolio Website</a></td>
       <td>A personal portfolio showcasing projects, skills, and achievements with a modern responsive design.</td>
-      <td>2023</td>
+      <td>2025</td>
     </tr>
   </table>
 </div>
 
-
-### 💻 My Recent Projects
-
-- **Recent working Full stack Project :** [GlobaHealth - EMR System]
-- **Recent working Full stack Project :** [EasyApply - Ai Power SaaS Product]
 
 <div align="left">
   <h3>My Mission & Vision</h3>
