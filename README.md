@@ -65,7 +65,7 @@
       <td>2026 - Present</td>
     </tr>
     <tr>
-      <td><a href="https://anikdey13.github.io/easy-apply-website/" target="_blank">EasyApply - AI Powered SaaS Product</a></td>
+      <td><a href="https://eapply.site/" target="_blank">eApply - AI Powered SaaS Product</a></td>
       <td>An AI-driven SaaS platform that simplifies job applications by automating resume tailoring and application processes.</td>
       <td>2026-present</td>
     </tr>
