@@ -70,7 +70,7 @@
       <td>2026-present</td>
     </tr>
     <tr>
-      <td><a href="https://razibdash.netlify.app/" target="_blank">Portfolio Website</a></td>
+      <td><a href="https://www.razibdash.com/" target="_blank">Portfolio Website</a></td>
       <td>A personal portfolio showcasing projects, skills, and achievements with a modern responsive design.</td>
       <td>2025</td>
     </tr>
