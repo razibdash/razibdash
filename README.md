@@ -19,7 +19,7 @@
 
 ### ⚡ Productive Habits
 
-- I’m currently learning Generative AI
+- I’m currently learning Computer Vision
 - Staying health-conscious
 - Practicing productive time management
 - Fun fact I am Funny
@@ -88,8 +88,7 @@
     </tr>
     <tr>
       <td> 
-        - Learning AI <br />
-        - Learning Laravel<br />
+        - Computer Vision <br />
         - Graduating in CSE<br />
         - Docker <br />
         - Minimum Create One SaaS Product
