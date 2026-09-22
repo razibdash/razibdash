@@ -64,12 +64,11 @@
       <td>A full-stack Electronic Medical Record system designed to streamline healthcare data management and improve patient care.</td>
       <td>2026 - Present</td>
     </tr>
-    <tr>
+     <tr>
       <td><a href="https://sync.globahealth.ai-health.org.uk/" target="_blank">GlobaHealth-Sync</a></td>
       <td>A B2B healthcare data platform designed to securely manage, analyze, and exchange anonymised healthcare data and data-driven solutions.</td>
       <td>2026 - Present</td>
     </tr>
-
     <tr>
       <td><a href="https://eapply.site/" target="_blank">eApply - AI Powered SaaS Product</a></td>
       <td>An AI-driven SaaS platform that simplifies job applications by automating resume tailoring and application processes.</td>
